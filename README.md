@@ -1,2 +1,2 @@
-# -fake_msfs_website_for_pradory_purposes_only
+# fake msfs website for pradory purposes only
 FOR PRADORY PURPOSED ONLY
