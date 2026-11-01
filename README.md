@@ -1,2 +1,2 @@
-# fake msfs website for pradory purposes only
-FOR PRADORY PURPOSED ONLY
+# Msfs Installer
+FOR PRADORY PURPOSE ONLY
